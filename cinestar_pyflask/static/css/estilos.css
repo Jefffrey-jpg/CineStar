@@ -7,8 +7,6 @@ h1, h2, h3, h4, h5, h6, pre, code { font-size: 1em; }
 
 a img, :link img, :visited img { border: none; }
 
-a:link, a:visited { }
-
 * {
     box-sizing: border-box;
     margin: 0;
